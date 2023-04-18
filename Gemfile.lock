@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    extlz4 (0.3.3)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  extlz4
+
+BUNDLED WITH
+   2.4.10
